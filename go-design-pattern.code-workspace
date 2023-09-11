@@ -1,0 +1,70 @@
+{
+	"folders": [
+		{
+			"path": "creational-patterns/factory-method"
+		},
+		{
+			"path": "creational-patterns/abstract-factory"
+		},
+		{
+			"path": "creational-patterns/builder"
+		},
+		{
+			"path": "creational-patterns/prototype"
+		},
+		{
+			"path": "creational-patterns/singleton"
+		},
+		{
+			"path": "structural-patterns/adapter"
+		},
+		{
+			"path": "structural-patterns/bridge"
+		},
+		{
+			"path": "structural-patterns/composite"
+		},
+		{
+			"path": "structural-patterns/decorator"
+		},
+		{
+			"path": "structural-patterns/facade"
+		},
+		{
+			"path": "structural-patterns/flyweight"
+		},
+		{
+			"path": "structural-patterns/proxy"
+		},
+		{
+			"path": "behavioral-patterns/chain-of-responsibility"
+		},
+		{
+			"path": "behavioral-patterns/command"
+		},
+		{
+			"path": "behavioral-patterns/iterator"
+		},
+		{
+			"path": "behavioral-patterns/mediator"
+		},
+		{
+			"path": "behavioral-patterns/memento"
+		},
+		{
+			"path": "behavioral-patterns/observer"
+		},
+		{
+			"path": "behavioral-patterns/state"
+		},
+		{
+			"path": "behavioral-patterns/strategy"
+		},
+		{
+			"path": "behavioral-patterns/template-method"
+		},
+		{
+			"path": "behavioral-patterns/visitor"
+		},
+	]
+}
