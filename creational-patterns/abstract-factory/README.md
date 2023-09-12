@@ -133,6 +133,7 @@ direction LR
     ICheckbox <|.. WinCheckbox
 ```
 
+Kode:
 ```go
 package main
 
