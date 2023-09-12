@@ -4,6 +4,7 @@ Diagram konsep:
 
 ```mermaid
 classDiagram
+    direction LR
     class Client{
         - getFactory : IFactory
     }
@@ -68,7 +69,8 @@ classDiagram
 Diagram implementasi:
 
 ```mermaid
-    classDiagram
+classDiagram
+direction LR
     class Client{
         - getGUIFactory(factody string) : IGUIFactory
     }
