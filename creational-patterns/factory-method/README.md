@@ -98,6 +98,15 @@ Diagram implementasi:
     SUV *-- Car
 ```
 
+## Kapan?
+
+- Anda ingin membuat objek tanpa harus mengungkapkan detail kelas konkretnya.
+- Anda ingin membuat objek dalam keluarga objek yang terkait.
+- Anda ingin memisahkan kode pembuatan objek dari kode klien.
+- Anda ingin mendukung variasi produk.
+- Anda ingin menggantikan objek-objek tanpa mengubah kode klien.
+
+
 ## Referensi
 - https://refactoring.guru/design-patterns/factory-method
 - https://golangbyexample.com/golang-factory-design-pattern/
